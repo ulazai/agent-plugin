@@ -1,0 +1,22 @@
+{
+  "name": "ulazai-media",
+  "version": "0.2.0",
+  "description": "Create private AI images with a linked UlazAI account: compare models, prepare a prompt and generate hero images, thumbnails and assets for your project.",
+  "author": {
+    "name": "Samautomation",
+    "email": "support@ulazai.com",
+    "url": "https://ulazai.com"
+  },
+  "homepage": "https://ulazai.com",
+  "repository": "https://github.com/ulazai/agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "ulazai",
+    "ulazai images",
+    "ai image generation",
+    "hero image",
+    "media generation"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
