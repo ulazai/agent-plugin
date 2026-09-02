@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.ulazai/media",
+  "title": "UlazAI Media",
+  "description": "Create private AI images with a linked UlazAI account: compare models, prepare prompts, make assets.",
+  "version": "0.2.0",
+  "websiteUrl": "https://ulazai.com/",
+  "repository": {
+    "url": "https://github.com/ulazai/agent-plugin",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://ulazai.com/mcp"
+    }
+  ]
+}
