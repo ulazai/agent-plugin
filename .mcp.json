@@ -2,7 +2,7 @@
   "mcpServers": {
     "ulazai": {
       "type": "http",
-      "url": "https://ulazai.com/mcp"
+      "url": "https://mcp.ulazai.com/mcp"
     }
   }
 }
